@@ -1,4 +1,4 @@
-    /*Heitor Gabriel de Oliveira 3D 13/11/2006*/
+    /*Maria Luiza Soares Pereira 3D 13/11/24*/
     .cabecalho__menu-hamburguer {
         width: 24px;
         height: 24px;
@@ -9,7 +9,7 @@
         padding-left: 2em;
     }
 
-    /*Heitor Gabriel de Oliveira 3D 13/11/2006*/
+    /*Maria Luiza Soares Pereira 3D 13/11/24*/
     .container__botao:checked~.container__rotulo>.cabecalho__menu-hamburguer {
         background-image: url(../img//MenuAberto.png);
     }
@@ -32,7 +32,7 @@
         align-items: center;
     }
 
-    /*Heitor Gabriel de Oliveira 3D 13/11/2006*/
+    /*Maria Luiza Soares Pereira 3D 13/11/24*/
     .pt1 {
         gap: 1em;
     }
@@ -53,7 +53,7 @@
         display: block;
     }
 
-    /*Heitor Gabriel de Oliveira 3D 13/11/2006*/
+    /*Maria Luiza Soares Pereira 3D 13/11/24*/
     .container__botao {
         display: none;
     }
@@ -83,7 +83,7 @@
         display: none;
     }
 
-    /*Heitor Gabriel de Oliveira 3D 13/11/2006*/
+    /*Maria Luiza Soares Pereira 3D 13/11/24*/
     .container__texto {
         display: none
     }
@@ -120,7 +120,7 @@
             color: var(--preto);
         }
 
-        /*Heitor Gabriel de Oliveira 3D 13/11/2006*/
+        /*Maria Luiza Soares Pereira 3D 13/11/24*/
         .opções__link:hover {
             background: var(--azul-degrade);
             color: var(--branco);
@@ -151,7 +151,7 @@
             background: var(--azul-degrade);
         }
 
-        /*Heitor Gabriel de Oliveira 3D 13/11/2006*/
+        /*Maria Luiza Soares Pereira 3D 13/11/24*/
         .lista-menu__item:hover>.lista-menu__link {
             -webkit-text-fill-color: var(--branco);
             text-decoration: none;
@@ -175,7 +175,7 @@
             padding: 0 2em;
         }
 
-        /*Heitor Gabriel de Oliveira 3D 13/11/2006*/
+        /*Maria Luiza Soares Pereira 3D 13/11/24*/
         .opções {
             margin-right: auto;
         }
