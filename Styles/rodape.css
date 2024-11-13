@@ -1,9 +1,9 @@
-    /*Heitor Gabriel de Oliveira 3D 13/11/2006*/
+    /*Maria Luiza Soares Pereira 3D 13/11/24*/
     hr {
         margin: 0;
     }
 
-    /*Heitor Gabriel de Oliveira 3D 13/11/2006*/
+    /*Maria Luiza Soares Pereira 3D 13/11/24*/
     .rodapé {
         background-color: var(--branco);
         padding: 1em;
@@ -24,7 +24,7 @@
             justify-content: space-around;
         }
 
-        /*Heitor Gabriel de Oliveira 3D 13/11/2006*/
+        /*Maria Luiza Soares Pereira 3D 13/11/24*/
         .lista-rodapé__item {
             display: flex;
             align-items: center;
@@ -47,7 +47,7 @@
         }
     }
 
-    /*Heitor Gabriel de Oliveira 3D 13/11/2006*/
+    /*Maria Luiza Soares Pereira 3D 13/11/24*/
     @media screen and (min-width: 1728px) {
 
         .lista-rodapé {
