@@ -1,11 +1,11 @@
-    /*Heitor Gabriel de Oliveira 3D 13/11/2006*/
+    /*Maria Luiza Soares Pereira 3D 13/11/24*/
     .topicos {
         background: var(--azul-degrade);
         text-align: center;
         padding: 1em 0;
     }
 
-    /*Heitor Gabriel de Oliveira 3D 13/11/2006*/
+    /*Maria Luiza Soares Pereira 3D 13/11/24*/
     .topicos__titulo {
         color: var(--branco);
         font-weight: 300;
@@ -27,7 +27,7 @@
         background-color: var(--laranja);
     }
 
-    /*Heitor Gabriel de Oliveira 3D 13/11/2006*/
+    /*Maria Luiza Soares Pereira 3D 13/11/24*/
     .topicos__link:hover {
         background-color: var(--laranja-claro);
     }
@@ -36,7 +36,7 @@
         margin: 2em .5em;
     }
 
-    /*Heitor Gabriel de Oliveira 3D 13/11/2006*/
+    /*Maria Luiza Soares Pereira 3D 13/11/24*/
     @media screen and (min-width: 1024px) {
 
         .topicos__titulo,
@@ -45,7 +45,7 @@
         }
     }
 
-    /*Heitor Gabriel de Oliveira 3D 13/11/2006*/
+    /*Maria Luiza Soares Pereira 3D 13/11/24*/
     @media screen and (min-width: 1728px) {
 
         .topicos {
