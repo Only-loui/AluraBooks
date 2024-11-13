@@ -4,7 +4,7 @@
 @import url("Styles/topicos.css");
 @import url("Styles/contato.css");
 @import url("Styles/rodape.css");
-/*Maria Luiza Soares Pereira 3D 13/11/2006*/
+/*Maria Luiza Soares Pereira 3D 13/11/24*/
 :root {
     --fundo: #EBECEE;
     --branco: #FFFFFF;
@@ -18,7 +18,7 @@
     --fonte-principal: "Poppins";
     --fonte-secundaria: "Josefin Sans";
 }
-/*Maria Luiza Soares Pereira 3D 13/11/2006*/
+/*Maria Luiza Soares Pereira 3D 13/11/24*/
 body {
     background-color: var(--fundo);
     font-family: var(--fonte-principal);
