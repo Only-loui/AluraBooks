@@ -3,7 +3,7 @@
     padding: 1em;
 }
 
-/*Heitor Gabriel de Oliveira 3D 13/11/2006*/
+/*Maria Luiza Soares Pereira 3D 13/11/24*/
 .contato__titulo,
 .contato__texto {
     background: var(--azul-degrade);
@@ -30,7 +30,7 @@
     color: var(--azul);
 }
 
-/*Heitor Gabriel de Oliveira 3D 13/11/2006*/
+/*Maria Luiza Soares Pereira 3D 13/11/24*/
 .contato__email::placeholder {
     font-family: var(--fonte-principal);
     color: var(--azul);
@@ -62,7 +62,7 @@
     }
 }
 
-/*Heitor Gabriel de Oliveira 3D 13/11/2006*/
+/*Maria Luiza Soares Pereira 3D 13/11/24*/
 @media screen and (min-width: 1728px) {
 
     .contato {
